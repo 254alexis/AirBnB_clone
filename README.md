@@ -114,4 +114,4 @@ $
 
 ## AUTHORS
  
-* **Alexander kiprop** - [Alexis254](https://github.com/Alexis254)
+* **Alexander kiprop** - [254Alexis](https://github.com/254Alexis)
