@@ -114,4 +114,4 @@ $
 
 ## AUTHORS
  
-* **Faith Ikhidero** - [Faitholo](https://github.com/Faitholo)
+* **Alexander kiprop** - [Alexis254](https://github.com/Alexis254)
